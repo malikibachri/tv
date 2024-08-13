@@ -1,0 +1,135 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-chno="001" tvg-id="Trans7.id" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F8-LOCAL%2FTrans%207%20SD-FirstMedia-Chl-8.jpeg&w=1920&q=100" group-title="LOCAL",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-chno="002" tvg-id="Indosiar.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Findosiar.jfif?alt=media&token=3ee58305-4fde-490c-8470-742c5652a957" group-title="LOCAL",Indosiar
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1 tvg-chno="005" tvg-id="SCTV.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fsctv.jfif?alt=media&token=76a3b0df-822f-498e-b80c-0137449b8374" group-title="LOCAL",SCTV
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1 tvg-chno="006" tvg-id="ANTV.id" tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/ANTV%20SD-FirstMedia-Chl-13.jpg" group-title="LOCAL",ANTV
+https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv
+#EXTINF:-1 tvg-chno="007" tvg-id="NET.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FNET-TV.jpg?alt=media&token=d156d3e5-25d3-47a8-88fd-c703761c65aa" group-title="LOCAL",NET.
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
+#EXTINF:-1 tvg-chno="008" tvg-id="RTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frtv.jpg?alt=media&token=f446a58b-c091-4c72-bc17-aa26f2ebb965" group-title="LOCAL",RTV
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
+#EXTINF:-1 tvg-chno="009" tvg-id="TransTV.id" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F8-LOCAL%2FTrans%20TV%20SD-FirstMedia-Chl-9.jpg&w=1920&q=100" group-title="LOCAL",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-chno="010" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FNusantara_TV.png?alt=media&token=e468e3e0-8401-429b-abef-7868f02a5e44" group-title="LOCAL",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 tvg-chno="012" tvg-name="RCTI" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb" group-title="LOCAL" tvg-id="RCTI.id",RCTI
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-chno="013" tvg-name="MNC TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fmnctv.jfif?alt=media&token=7483abbd-d27e-41e8-b387-9f8e3a8aadaf" group-title="LOCAL" tvg-id="MNCTV.id",MNCTV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-chno="014" tvg-name="GTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fgtv.jfif?alt=media&token=5bfc6308-4504-4f5d-a7c6-ae842d3b2809" group-title="LOCAL" tvg-id="GTV.id",GTV
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 tvg-chno="015" tvg-id="MAGNA TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="LOCAL",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="016" tvg-id="Indonesiana.tv" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="LOCAL",Indonesiana.TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+#EXTINF:-1 tvg-chno="017" tvg-id="Garuda.tv" tvg-logo="https://aksara.biz.id/wp-content/uploads/2023/09/sikopi.webp" group-title="LOCAL",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-name="iNews" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="News" tvg-id="iNews.id",iNEWS
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-chno="101" channel-id="tvOne" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Ftvone.jfif?alt=media&token=8c2324ed-dc6d-48e0-b31f-e98fef713a9f" group-title="News" tvg-id="tvOne.id",TVONE
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
+#EXTINF:-1 tvg-chno="102" tvg-name="TVRI" tvg-logo="https://hometv.pw/logo/lokal/tvri.png" group-title="News" tvg-id="TVRI.id",TVRI
+https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:-1 tvg-chno="103" tvg-id="NHKWorldJapan" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fnhkjpn2IhfbbfiHIFh294.png?alt=media&token=18f12633-7bf7-4def-be06-b8d20b104098" group-title="News",NHK World Japan
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="AlJazeeraEnglish.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Faljazeera.jfif?alt=media&token=f5911cdf-8831-461c-879a-7b3e357938ca" group-title="News",Al-Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-name="CNA" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcna.jfif?alt=media&token=82e933ca-3594-46ff-8811-c2c045f56658" group-title="News" tvg-id="CNA.id",CNA
+https://cempedak-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+#EXTINF:-1 tvg-chno="106" tvg-id="SEAToday" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_81uwc59i/banner_xxhdpi.jpg" group-title="News",SEA Today
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7cafff42-3569-1a1e-d668-c36036b1c848)/manifest.mpd
+#EXTINF:-1 tvg-chno="107" tvg-id="KompasTV.id" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FKompas%20TV%20SD-FirstMedia-Chl-15.jpg&w=1920&q=100" group-title="News",Kompas TV
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
+#EXTINF:-1 tvg-chno="108" tvg-name="IDX" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FIDX.png?alt=media&token=f0745624-857e-4748-aba5-931097e8ffcb" group-title="News" tvg-id="IDX.id",IDX
+https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+#EXTINF:-1 tvg-chno="109" tvg-id="CNBCAsia.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcnbc.jpg?alt=media&token=0d4dacdf-2f32-4689-b849-09681fb9a415" group-title="News",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FBerita%20Satu%20SD-FirstMedia-Chl-1.webp&w=1920&q=100" group-title="News",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="CNN Indonesia" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcnnid.jpg?alt=media&token=d4345c4c-4b2c-4f2b-bd16-91d443d5d58a" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FMetro%20TV%20SD-FirstMedia-Chl-7.jpg&w=1920&q=100" group-title="News" tvg-id="MetroTV.id",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg" group-title="SPORTS" tvg-id="FightSports",Fight Sports
+https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=FIGHT_SPORTS_HD
+#EXTINF:-1 tvg-chno="202" tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="SPORTS" tvg-id="SoccerChannel.id",Soccer Channel
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV%20SD-FirstMedia-Chl-139.jpg&w=1920&q=100" group-title="SPORTS" tvg-id="SPOTV.id",SPOTV
+https://cempedak-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#EXTINF:-1 tvg-chno="204" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100" group-title="SPORTS" tvg-id="SPOTV2.id",SPOTV2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://github.com/justemonn1/tv/raw/main/master/poster/red-bull-tv-banner.webp" group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://github.com/justemonn1/tv/blob/main/master/poster/motorvisiontv-696x400.jpg?raw=true" group-title="SPORTS",MOTORVISION
+https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+#EXTINF:-1 tvg-chno="208" tvg-name="MNCSports.id" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS 1
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-chno="209" tvg-name="MNCSports2.id" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS 2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-id="MNCSports3.id" tvg-name="SPORTSTARS 3" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS 3
+https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://www.transvision.co.id/img/channel/new/CINEMA%20WORLD.jpg" group-title="MOVIES",CINEMA WORLD
+https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:-1 tvg-chno="301" tvg-name="IMC" tvg-logo="https://images.indihometv.com/tvposter/imc.png" group-title="MOVIES" tvg-id="IMC",IMC
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 tvg-chno="302" tvg-id="tvN.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Ftvn_movies.png?alt=media&token=972488a2-1e5b-45d2-8a24-6b13b9e6f471" group-title="MOVIES",tvN
+https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
+#EXTINF:-1 tvg-chno="303" tvg-name="GALAXYPremium" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="MOVIES" tvg-id="GALAXYPremium",GALAXY Premium
+https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 tvg-chno="304" tvg-name="Thrill.hk" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fthrill.png?alt=media&token=aa48e0e7-77c4-4a38-8c32-de7eb0e479aa" group-title="MOVIES" tvg-id="Thrill.hk",Thrill
+https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 tvg-chno="305" tvg-id="HitsMovies.sg" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F9-MOVIES%2Fhits-movies-325.jpg&w=1920&q=100" group-title="MOVIES",Hits Movies
+https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:-1 tvg-chno="306" tvg-id="ZeeBioskop.id" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F9-MOVIES%2FZee%20Bioskop%20SD-FirstMedia-Chl-161.jpg&w=1920&q=100" group-title="MOVIES",Zee Bioskop
+https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:-1 tvg-chno="307" tvg-id="MyCinema" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg" group-title="MOVIES",My Cinema
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
+#EXTINF:-1 tvg-chno="308" tvg-id="MyCinemaAsia" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" group-title="MOVIES",My Cinema Asia
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
+#EXTINF:-1 tvg-chno="309" tvg-id="MyFamilyChannel" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg" group-title="MOVIES",My Family Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=lite&chname=My_Family_Channel
+#EXTINF:-1 tvg-chno="310" tvg-name="GALAXY" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="MOVIES" tvg-id="GALAXY",GALAXY
+https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#EXTINF:-1 tvg-chno="400" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FRock_Entertainment.jpg?alt=media&token=265675a7-88ac-481a-9ef6-42553495dd07" group-title="Entertainment" tvg-id="ROCKEntertainment.id",ROCK Entertainment
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+#EXTINF:-1 tvg-chno="401" tvg-id="HITS.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" group-title="Entertainment",HITS
+https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTINF:-1 tvg-chno="402" tvg-name="ROCK ACTION" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frock-action-55bdd5.webp?alt=media&token=cc883d1d-85bd-4108-81ee-3e3890a8506f" group-title="Entertainment" tvg-id="ROCKAction.id",ROCK Action
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+#EXTINF:-1 tvg-chno="403" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg" group-title="Entertainment",K-plus
+https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
+#EXTINF:-1 tvg-chno="404" tvg-id="KIX.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fkix.jpg?alt=media&token=a63f4860-fe6c-4f24-9f45-61efae813ca0" group-title="Entertainment",KIX
+https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF:-1 tvg-chno="407" tvg-id="tvN.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FtvN.jpg?alt=media&token=98a82cdc-60f6-4c89-a067-bb7923217404" group-title="Entertainment",tvN
+https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#EXTINF:-1 tvg-chno="408" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Faniplus.png?alt=media&token=2fa2d637-1c28-4c64-b0a7-9d69c7435595" group-title="Entertainment",ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+#EXTINF:-1 tvg-chno="409" tvg-name="Animax.id" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Animax%20SD-FirstMedia-Chl-52.jpg" group-title="Entertainment" tvg-id="Animax.id",Animax
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-chno="410" tvg-id="AXN.id" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/AXN%20HD-FirstMedia-Chl-332.jpg" group-title="Entertainment",AXN
+https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 tvg-chno="411" tvg-id="ONE.id" tvg-logo="https://www.firstmedia.com/files/icons/channel/One-Ch205.png" group-title="Entertainment",One
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 tvg-chno="412" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:-1 tvg-chno="500" tvg-id="MyKidz" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="Kids",MyKidz
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 tvg-chno="501" tvg-id="DreamWorks.id" tvg-name="DREAMWORS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FDREAMWORKS.png?alt=media&token=daed4113-8e2c-44b4-b5dd-6ed428ea8e4e" group-title="Kids",Dream Works
+https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+#EXTINF:-1 tvg-chno="503" tvg-id="Nickelodeon.id" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Emblem.png" group-title="Kids",Nickelodeon
+https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:-1 tvg-chno="504" tvg-id="NickJr.id" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F6-KIDS%2FNick%20Jr%20SD-FirstMedia-Chl-124.jpg&w=1920&q=100" group-title="Kids",Nick Jr.
+https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#EXTINF:-1 tvg-chno="600" tvg-name="CRIME INVESTIGATION" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FCrimeInvestigation.png?alt=media&token=a300c19e-2d54-47b4-9df9-e7664519b114" group-title="Knowledge" tvg-id="CrimeInvestigation.id",Crime Investigation
+https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF:-1 tvg-chno="601" tvg-logo="https://www.firstmedia.com/files/logos/channels/1-DOCUMENTARY/History%20HD-FirstMedia-Chl-365.jpg" group-title="Knowledge" tvg-id="History.id",History Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://image.roku.com/developer_channels/prod/82f06a124571d35829348d87fb1224dd5217807d338a1b7bf262edffa6be71aa.png" group-title="Knowledge",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FMetro%20Globe%20Network%201025x766.jpg?alt=media&token=8bd00f36-bccb-4257-8028-c47498326a0a" group-title="Knowledge",METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="700" tvg-logo="https://play-lh.googleusercontent.com/qgav7EcQEG6ftRr556wadC2v_tpPrFDmAAY0Q3sc0AbgXgE3dfwIihCqNXLaLMXXGi0" group-title="UEFA EURO 2024",VISION+ LIVE
+https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd

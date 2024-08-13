@@ -1,4 +1,10 @@
-﻿#EXTM3U
+#EXTM3U
+ 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"  
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/scripts/global/indonesiapremium1.xml.json"
+#EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="3600"
+
 #EXTINF:-1 tvg-chno="001" tvg-id="Trans7.id" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F8-LOCAL%2FTrans%207%20SD-FirstMedia-Chl-8.jpeg&w=1920&q=100" group-title="LOCAL",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-chno="002" tvg-id="Indosiar.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Findosiar.jfif?alt=media&token=3ee58305-4fde-490c-8470-742c5652a957" group-title="LOCAL",Indosiar
